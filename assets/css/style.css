@@ -267,6 +267,11 @@ button {
     transition: opacity .3s ease-in-out, visibility .3s ease-in-out;
 }
 
+.show--notity {
+    opacity: 1;
+    visibility: visible;
+}
+
 /* Show Menu */
 .show--menu {
     bottom: var(--header-height);
